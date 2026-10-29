@@ -1,0 +1,5 @@
+Model Architecture,Test RMSE (Cases),Test MAE (Cases),Test R-Squared
+Persistence Baseline,33.4749,22.3409,0.9434
+Ridge Regression,58.736,35.022,0.8257
+Random Forest Regressor,144.3574,87.7623,-0.0529
+BiLSTM with Attention (Ours),141.0278,88.6154,-0.0049
